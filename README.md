@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/a/8daVbhJ) <!-- Replace with your actual banner URL -->
+![Banner](https://i.imgur.com/A5mJi9i.png) <!-- Replace with your actual banner URL -->
 
 # 👋 Hi ! I'm Raihanul Hoque Jilany .
 
@@ -8,9 +8,10 @@ I'm a passionate and dedicated full-stack developer with nearly three years of e
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/raihanul-hoque-jilany-7717011b1/])
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)]([https://x.com/akjilan2])
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white)]([https://jilan-portfolio.netlify.app/])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihanul-hoque-jilany-7717011b1/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/akjilan2)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white)](https://jilan-portfolio.netlify.app/)
+
 
 ---
 
@@ -35,10 +36,13 @@ I'm a passionate and dedicated full-stack developer with nearly three years of e
 
 ---
 
-## 💼 Work Experience
+### Work Experience
 
-- **Junior Software Engineer** at Mediusware ltd.
-- March 2024 - ongoing 
+**Junior Software Engineer**  
+*Mediusware, Onsite, Full-time*  
+March 2024 – Present  
+
+Working as a Junior Software Engineer, developing hands-on experience in full-stack development, collaborating on projects, and contributing to various aspects of the software development lifecycle. Engaging in practical applications of web technologies to support project goals and improve user experience.
 
 ---
 
