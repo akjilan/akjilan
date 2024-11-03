@@ -49,8 +49,18 @@ Working as a Junior Software Engineer, developing hands-on experience in full-st
 ## 🚀 Projects
 
 ### [INSTITUTION](https://github.com/akjilan/INSTITUTE_PROJECT)
-- **Description**: Developed a comprehensive MERN stack-based institution portal enabling dynamic management of online admissions, result publication, notices, and institutional information through an intuitive admin panel. Implemented technologies include MongoDB, Express.js, React.js, and Node.js, ensuring seamless functionality and efficient information dissemination.
-- 
+
+**Description:**  
+Developed a comprehensive MERN stack-based institution portal enabling dynamic management of online admissions, result publication, notices, and institutional information through an intuitive admin panel. This platform is built to streamline administrative tasks and improve information accessibility.
+
+- **Technologies Used**: MongoDB, Express.js, React.js, Node.js
+
+**Key Features:**  
+- Online admissions management
+- Result publication and notices
+- Customizable admin panel for institutional information management
+- Real-time data updates and notifications
+
 ### [JobHub](https://github.com/akjilan/JOBHUB)
 - **Description**: JobHub is a full-stack web platform designed to bridge the gap between job seekers and opportunities. The application enables users to explore, apply for, and track job applications. Features include user authentication, real-time statistics, and a dynamic blog section for industry insights.
 - **Technologies Used**: React.js, TailwindCSS, Node.js, Express, Firebase
