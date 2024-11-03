@@ -39,8 +39,8 @@ I'm a passionate and dedicated full-stack developer with nearly three years of e
 ### Work Experience
 
 **Junior Software Engineer**  
-*Mediusware, Onsite, Full-time*  
-March 2024 – Present  
+[Mediusware](https://www.mediusware.com/), Onsite, Full-time  
+March 2024 – Present
 
 Working as a Junior Software Engineer, developing hands-on experience in full-stack development, collaborating on projects, and contributing to various aspects of the software development lifecycle. Engaging in practical applications of web technologies to support project goals and improve user experience.
 
@@ -61,18 +61,26 @@ Developed a comprehensive MERN stack-based institution portal enabling dynamic m
 - Customizable admin panel for institutional information management
 - Real-time data updates and notifications
 
+ [Client](https://github.com/akjilan/INSTITUTE_PROJECT) [Server] (https://github.com/akjilan/INSTITUTION_MEGA_BACKEND/) [Live] (https://institution-client.netlify.app/) [Admin] (https://institution-admin-panel.netlify.app/)
+
 ### [JobHub](https://github.com/akjilan/JOBHUB)
 - **Description**: JobHub is a full-stack web platform designed to bridge the gap between job seekers and opportunities. The application enables users to explore, apply for, and track job applications. Features include user authentication, real-time statistics, and a dynamic blog section for industry insights.
 - **Technologies Used**: React.js, TailwindCSS, Node.js, Express, Firebase
 
-### [Shop E](https://github.com/akjilan/SHOP-E)
-- **Description**: Developed a dynamic e-commerce platform using ReactJS, Tailwind CSS, and JavaScript. This project features API-driven product listings, an intuitive cart system, and a responsive design for seamless shopping across devices.
-- **Technologies Used**: React.js, TailwindCSS, JavaScript
+[Client](https://github.com/akjilan/JOBHUB) [Server] (https://github.com/akjilan/JOBHUB-SERVER) [Live] (https://jobhub-jilan.web.app/)
+
+###  PROJECT TRACKER
+- **Description**: Designed and implemented a robust project tracker system using MERN stack technologies, encompassing features such as real-time project updates, bug-fixing orders, discussions, and task assignments. The platform enhances collaboration and project management efficiency to deliver a seamless user experience.
+- **Technologies Used**: HTML, CSS, Bootstrap, JavaScript, React.js, jQuery
+
+[Client](https://github.com/akjilan/PROJECT-MANAGEMENT-24/tree/main/frontend) [Server] (https://github.com/akjilan/PROJECT-MANAGEMENT-24/tree/main/backend) [Live] (https://project-tracker-official.netlify.app/)
 
 ### [EEE Club of HSTU](https://github.com/akjilan/Project-EEECLUBOFHSTU)
 - **Description**: Built a website for the EEE Club of Hajee Mohammad Danesh Science & Technology University. This project focused on responsive design, ensuring accessibility across multiple devices and screen sizes.
 - **Technologies Used**: HTML, CSS, Bootstrap, JavaScript, React.js, jQuery
 
+
+[Client](https://github.com/akjilan/Project-EEECLUBOFHSTU) [Live] (https://eeeclubofhstu.netlify.app/)
 ---
 
 ## 🎓 Education
